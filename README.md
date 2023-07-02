@@ -26,14 +26,16 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
   </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Express-%23404d59.svg?&style=for-the-badge&logo=express&logoColor=white" alt="express" />
-  </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/React-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" alt="react" />
+
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Node.js-%234ea94b.svg?&style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" />
+  </a>
+    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Express-%23404d59.svg?&style=for-the-badge&logo=express&logoColor=white" alt="express" />
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
