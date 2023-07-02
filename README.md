@@ -13,7 +13,7 @@
 
 ### Languages and Tools:
 
-<div style="display:flex; flex-wrap: wrap; gap: 15px;">
+<div style="display:flex; flex-wrap: wrap; gap: 20px; margin:20px 10px">
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
   </a>
@@ -32,7 +32,6 @@
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/React-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" alt="react" />
   </a>
-
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Node.js-%234ea94b.svg?&style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" />
   </a>
