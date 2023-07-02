@@ -1,20 +1,47 @@
-<h1 align="center">Hi 👋, I'm Deepanshu Heer</h1>
-<h3 align="center">A passionate MERN Stack Developer from India</h3>
+# Hi 👋, I'm Deepanshu Heer
 
-- 👨‍💻 All of my projects are available at [https://deep0133.github.io/Portfolio/](https://deep0133.github.io/Portfolio/)
+### A passionate MERN Stack Developer from India
 
-- 💬 Ask me about **Reactjs, Nodejs, Express, Mongodb**
+- All of my projects are available at [https://deep0133.github.io/Portfolio/](https://deep0133.github.io/Portfolio/)
+- Ask me about **Reactjs, Nodejs, Express, Mongodb**
+- How to reach me: deepanshuheer27@gmail.com
 
-- 📫 How to reach me **deepanshuheer27@gmail.com**
+### Connect with me:
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.codechef.com/users/deep_1390" target="blank"><img align="center" src="https://github.com/deep0133/deep0133/blob/main/assets/codechef.png" alt="deep_1390" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/deep01" target="blank"><img align="center" src="https://github.com/deep0133/deep0133/blob/main/assets/leetcode.png" alt="deep01" height="30" width="40" /></a>
-</p>
+[![Codechef](https://img.shields.io/badge/codechef-deep__1390-blue)](https://www.codechef.com/users/deep_1390)
+[![LeetCode](https://img.shields.io/badge/leetcode-deep01-orange)](https://www.leetcode.com/deep01)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/deep0133/deep0133/blob/main/assets/css.png" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://github.com/deep0133/deep0133/blob/main/assets/express.png" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/deep0133/deep0133/blob/main/assets/html.png" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/nodejs/nodejs-horizontal.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+### Languages and Tools:
+
+<div style="display:flex; flex-wrap: wrap; gap: 20px;margin:20px 10px"">
+  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/CSS3-%2343853D.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Tailwind CSS-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" />
+  </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
+  </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Express-%23404d59.svg?&style=for-the-badge&logo=express&logoColor=white" alt="express" />
+  </a>
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/React-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" alt="react" />
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Node.js-%234ea94b.svg?&style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
+  </a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white" alt="git" />
+  </a>
+</div>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deep0133&show_icons=true&locale=en&layout=compact" alt="deep0133" /></p>
 
