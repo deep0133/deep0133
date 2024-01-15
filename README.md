@@ -7,7 +7,7 @@
 - How to reach me: deepanshuheer27@gmail.com
 
 ### Connect with me:
-[![Gmail](deepanshuheer27@gmail.com)]
+Gamil : deepanshuheer27@gmail.com
 [![LeetCode](https://img.shields.io/badge/leetcode-deep01-orange)](https://www.leetcode.com/deep01)
 
 ### Languages and Tools:
