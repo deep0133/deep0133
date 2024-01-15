@@ -7,8 +7,7 @@
 - How to reach me: deepanshuheer27@gmail.com
 
 ### Connect with me:
-
-[![Codechef](https://img.shields.io/badge/codechef-deep__1390-blue)](https://www.codechef.com/users/deep_1390)
+[![Gmail](deepanshuheer27@gmail.com)]
 [![LeetCode](https://img.shields.io/badge/leetcode-deep01-orange)](https://www.leetcode.com/deep01)
 
 ### Languages and Tools:
