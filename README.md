@@ -44,6 +44,4 @@ Gamil : deepanshuheer27@gmail.com
   </a>
 </div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deep0133&show_icons=true&locale=en&layout=compact" alt="deep0133" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deep0133&" alt="deep0133" /></p>
