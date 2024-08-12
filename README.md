@@ -2,7 +2,7 @@
 
 ### A passionate MERN Stack Developer from India
 
-- All of my projects are available at [https://deepanshuheer.netlify.com](https://deepanshuheer.netlify.com)
+- All of my projects are available at [https://deepanshu01.netlify.app/](https://deepanshu01.netlify.app/)
 - Ask me about **Reactjs, Nodejs, Express, Mongodb**
 - How to reach me: deepanshuheer27@gmail.com
 
