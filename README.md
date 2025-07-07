@@ -99,5 +99,5 @@ I specialize in building efficient, scalable web applications using the MERN sta
 </p>
 
 
-
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=deep0133.deep0133)
 ---
