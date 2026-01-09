@@ -6,7 +6,7 @@ I specialize in building efficient, scalable web applications using the MERN sta
 
 ---
 
-- 🌐 All of my projects are available at [Portfolio](https://deepanshu01.netlify.app/)  
+- 🌐 All of my projects are available at [Portfolio](https://deepanshuheer.vercel.app)  
 - 💬 Ask me about **ReactJS, Node.js, Express, MongoDB**  
 - 📧 How to reach me: **deepanshuheer27@gmail.com**
 
